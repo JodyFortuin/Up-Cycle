@@ -1,7 +1,5 @@
-# Up-Cycle 
+# Up-Cycle 2020 - http://upcycle101.herokuapp.com/
 
-2020 - http://upcycle101.herokuapp.com/
--Up-Cycle
 A group Hackathon project used to assist people who would like to recycle their materials which shows an estimated value and mapped locations of recycling firms. It was built using NodeJS express with an SQL database.
 
 Challenge
